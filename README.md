@@ -12,7 +12,7 @@ The 2016 FDA Naloxone App Competition, a prize competition under the America COM
 * Naloxphone - http://www.github.com/ActionCat/Naloxphone
 * The Antagonist - http://www.github.com/nicksenger/POPIS
 * Finger Paint Marketing - http://www.github.com/fingerpaintmarketing/pusher
-* Khaleesi - http://www.github.com/mightyGaby/kHaleesi
+* Khaleesi - https://github.com/khaleesiapp/khaleesiapp.github.io
 
 
 ## Adding a Project
