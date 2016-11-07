@@ -15,6 +15,7 @@ The 2016 FDA Naloxone App Competition, a prize competition under the America COM
 * Khaleesi - https://github.com/khaleesiapp/khaleesiapp.github.io
 * Naloxone++ - https://github.com/jbyman/Reprieve
 * Charm City Coders - https://github.com/charmcitycoders/butterfly-effect
+* LifeKit - https://github.com/justiceo/LifeKit
 
 ## Adding a Project
 
