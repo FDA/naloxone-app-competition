@@ -14,7 +14,7 @@ The 2016 FDA Naloxone App Competition, a prize competition under the America COM
 * Finger Paint Marketing - http://www.github.com/fingerpaintmarketing/pusher
 * Khaleesi - https://github.com/khaleesiapp/khaleesiapp.github.io
 * Naloxone++ - https://github.com/jbyman/Reprieve
-
+* Charm City Coders - https://github.com/charmcitycoders/butterfly-effect
 
 ## Adding a Project
 
