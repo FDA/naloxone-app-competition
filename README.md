@@ -19,6 +19,7 @@ The 2016 FDA Naloxone App Competition, a prize competition under the America COM
 * Tankbells - https://github.com/tankbells/fda-naloxone
 * FindNaloxone - https://github.com/chrisarg0/NarcanApp
 * System Green - https://github.com/makmak7/NaloxoneSolution-Green
+* Naltruist - https://github.com/vnavanee/Naltruist
 
 ## Adding a Project
 
